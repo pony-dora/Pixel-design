@@ -1,0 +1,42 @@
+header {
+    background-color: rgb(87, 120, 251);
+    padding: 25px;
+}
+
+header img {
+    width: 200px;
+    height: 60px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+h2 {
+    background-color: rgb(87, 120, 251);
+    color: rgb(249, 149, 50);
+    font-size: 30px;
+    padding-left: 25px
+}
+
+p img {
+    height: 150px;
+    width: 200px;
+}
+
+header a {
+     padding: 15px;
+    text-decoration: none;
+    border-radius: 10px;
+    background-color: white;
+    margin-bottom: 20px
+}
+
+main p {
+    border: 1px solid navy;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 20px;
+    font-size: 20px
+}
